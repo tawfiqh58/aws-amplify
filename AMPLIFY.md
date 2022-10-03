@@ -18,3 +18,8 @@ Give access and login with aws-amplify
 npm install aws-amplify @aws-amplify/ui-react
 amplify add auth
 amplify push --y
+
+
+REMOVE:
+---
+amplify remove auth
